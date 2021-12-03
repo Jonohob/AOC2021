@@ -28,6 +28,9 @@
 			<Item Name="Day 2.vi" Type="VI" URL="../Day 2/Day 2.vi"/>
 			<Item Name="Direction_ENUM.ctl" Type="VI" URL="../Day 2/Direction_ENUM.ctl"/>
 		</Item>
+		<Item Name="Day3" Type="Folder">
+			<Item Name="Day 3.vi" Type="VI" URL="../Day 3/Day 3.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
