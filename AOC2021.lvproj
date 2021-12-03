@@ -29,7 +29,12 @@
 			<Item Name="Direction_ENUM.ctl" Type="VI" URL="../Day 2/Direction_ENUM.ctl"/>
 		</Item>
 		<Item Name="Day3" Type="Folder">
+			<Item Name="Data.txt" Type="Document" URL="../Day 3/Data.txt"/>
+			<Item Name="Example.txt" Type="Document" URL="../Day 3/Example.txt"/>
 			<Item Name="Day 3.vi" Type="VI" URL="../Day 3/Day 3.vi"/>
+			<Item Name="OxyGen_C02Scrub Calc.vi" Type="VI" URL="../Day 3/OxyGen_C02Scrub Calc.vi"/>
+			<Item Name="Boolean String to Boolean Array.vi" Type="VI" URL="../Day 3/Boolean String to Boolean Array.vi"/>
+			<Item Name="Calculation Select_ENUM.ctl" Type="VI" URL="../Day 3/Calculation Select_ENUM.ctl"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
