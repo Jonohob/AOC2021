@@ -38,6 +38,7 @@
 		</Item>
 		<Item Name="Day4" Type="Folder">
 			<Item Name="Example.txt" Type="Document" URL="../Day 4/Example.txt"/>
+			<Item Name="Data.txt" Type="Document" URL="../Day 4/Data.txt"/>
 			<Item Name="Day 4.vi" Type="VI" URL="../Day 4/Day 4.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
